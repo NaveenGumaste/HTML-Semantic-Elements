@@ -97,6 +97,7 @@ For example,
 However, images with no semantic meaning—such as those which are solely decorative—or of limited informational value, should have their alt attributes set to the empty string ("").
 
 [Learn More Here](https://www.w3schools.com/html/default.asp)
+[some help taken from](https://github.com/anoshaahmed/accessibility-info)
 
 #### If this helps you just drop a star to this repo
 
