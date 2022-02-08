@@ -38,7 +38,7 @@
 - non-semantic elements: `<div>` and `<span>` - Tells nothing about its content.
 - semantic elements: `<header>`, `<aside>`, and `<section>` - Clearly defines its content.
 
-## Here you can se the layout of a semantic page
+## Here you can see the layout of a semantic page
 
 ![Semantic Layout](https://www.w3schools.com/html/img_sem_elements.gif)
 
